@@ -1,0 +1,3 @@
+[submodule "wishlist"]
+	path = wishlist
+	url = https://github.com/hezikai8/wishlist
